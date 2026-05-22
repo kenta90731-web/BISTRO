@@ -29,7 +29,7 @@ You can run everything directly in your browser using **Google Colab**. It is fr
 | Notebook | Description | Link |
 | :--- | :--- | :--- |
 | **Forecast Single Series** | Simple forecast for one variable (e.g., inflation) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bis-med-it/bistro/blob/main/script/forecast_single_timeseries.ipynb) |
-| **Forecast Unconditional** | Forecast with extra variables (covariates) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bis-med-it/bistro/blob/main/script/forecast_unconditional_scenario.ipynb) |
+| **Forecast Unconditional** | Forecast with extra variables (covariates) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kenta90731-web/BISTRO/blob/main/script/forecast_unconditional_scenario.ipynb) |
 
 ### How to use Google Colab
 1. **Click a link above** to open the notebook.
